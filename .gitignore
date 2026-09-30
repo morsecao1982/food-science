@@ -1,0 +1,7 @@
+# Keep the locally supplied copyrighted reference book out of the public repository.
+/On Food and Cooking _ The Science and Lore of the Kitchen.pdf
+
+# Local tooling and temporary files
+.DS_Store
+node_modules/
+tmp/
