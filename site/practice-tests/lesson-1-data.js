@@ -31,7 +31,7 @@ const lesson1Sets = [
           "A fat made of glycerol and fatty acids",
           "A protein made of amino acids",
           "A mineral salt",
-          "A two-unit sugar made of glucose and galactose"
+          "Glucose linked to galactose"
         ],
         "D",
         "Lactose is a disaccharide composed of glucose and galactose."
@@ -62,7 +62,7 @@ const lesson1Sets = [
         "Milk is called an oil-in-water emulsion because…",
         [
           "Water and fat have chemically bonded",
-          "Fat droplets are dispersed in continuous water",
+          "Fat droplets dispersed through water",
           "Water droplets are dispersed in continuous fat",
           "Sugar droplets are dispersed in protein"
         ],
@@ -72,10 +72,10 @@ const lesson1Sets = [
       [
         "Which statement best defines an emulsion?",
         [
-          "Droplets of one liquid dispersed in another immiscible liquid",
+          "Droplets of one immiscible liquid dispersed in another",
           "A solid dissolved in a gas",
           "A collection of cells that reproduce",
-          "A mixture whose ingredients are chemically bonded"
+          "A mixture whose ingredients chemically combine into a new substance"
         ],
         "A",
         "An emulsion disperses droplets of one liquid in another liquid that normally does not mix with it."
@@ -84,7 +84,7 @@ const lesson1Sets = [
         "Which statement best defines a colloid?",
         [
           "A pure substance with one kind of atom",
-          "A mixture in which particles are dispersed and do not quickly settle",
+          "Particles dispersed without quickly settling",
           "A mixture that must separate immediately",
           "A liquid in which every particle is fully dissolved"
         ],
@@ -94,7 +94,7 @@ const lesson1Sets = [
       [
         "What is an emulsifier’s role?",
         [
-          "It helps keep oil and water phases dispersed",
+          "Stabilizes fat droplets",
           "It removes all minerals from milk",
           "It converts lactose to protein",
           "It makes fat chemically become water"
@@ -107,8 +107,8 @@ const lesson1Sets = [
         [
           "Only a mineral region",
           "No interaction with either phase",
-          "Two water-attracting ends only",
-          "A water-attracting region and a water-avoiding region"
+          "Two water-attracting ends that interact only with water",
+          "A water-loving and a water-avoiding region"
         ],
         "D",
         "Its two different regions let it sit at the fat-water boundary."
@@ -119,7 +119,7 @@ const lesson1Sets = [
           "Turns them into lactose",
           "Makes them larger so cream rises faster",
           "Removes them from milk",
-          "Breaks them into smaller globules and helps keep them dispersed"
+          "Makes smaller fat globules"
         ],
         "D",
         "Smaller globules rise more slowly and remain dispersed more evenly."
@@ -129,7 +129,7 @@ const lesson1Sets = [
         [
           "Casein disappears",
           "All lactose turns into butter",
-          "Cream may rise toward the top",
+          "Cream rises",
           "Minerals become gas"
         ],
         "C",
@@ -150,9 +150,9 @@ const lesson1Sets = [
         "What happens when cream is churned to make butter?",
         [
           "Minerals form an emulsion",
-          "Water chemically changes into fat",
+          "Water chemically changes into fat when cream is shaken",
           "Milk proteins become lactose",
-          "Agitation disrupts globule membranes and fat gathers together"
+          "Fat globules merge during churning"
         ],
         "D",
         "Churning destabilizes the fat globules so fat aggregates and the emulsion breaks or inverts."
@@ -204,7 +204,7 @@ const lesson1Sets = [
       [
         "Why did dairying help people obtain food from grasses?",
         [
-          "Dairy animals convert feed humans cannot directly use well into milk",
+          "Animals turn feed into milk",
           "Grass naturally contains butter",
           "Milk is made from sunlight without animals",
           "Dairying stops plants from growing"
@@ -259,7 +259,7 @@ const lesson1Sets = [
         [
           "Every cow’s milk must be exactly 3.9% fat",
           "The sample contains no water",
-          "That value is a useful approximate composition, not a universal value for every milk",
+          "A rough estimate; milk varies",
           "The remaining 96.1% must be lactose"
         ],
         "C",
@@ -269,7 +269,7 @@ const lesson1Sets = [
         "A substance disappears as individual particles when mixed into milk’s watery phase. Which category is the best fit?",
         [
           "Casein micelle in a colloid",
-          "Dissolved solute in a solution",
+          "Dissolved solute",
           "Fat droplet in an emulsion",
           "A separate solid layer"
         ],
@@ -290,7 +290,7 @@ const lesson1Sets = [
       [
         "A fat droplet is surrounded by water. Which description identifies the phases correctly?",
         [
-          "Fat: dispersed phase; water: continuous phase",
+          "Fat is dispersed; water is continuous",
           "Water: dispersed phase; fat: continuous phase",
           "Both are dissolved solutes",
           "Neither is a liquid phase"
@@ -301,10 +301,10 @@ const lesson1Sets = [
       [
         "Why can a phospholipid sit at the border between a fat droplet and water?",
         [
-          "It changes into a protein at the border",
+          "It changes into a protein at the fat-water boundary and binds to both liquids",
           "It has no chemical regions",
           "It is made entirely of water",
-          "One region interacts with water and another avoids water"
+          "One region attracts water; another interacts with fat"
         ],
         "D",
         "Its water-attracting and water-avoiding regions orient toward the appropriate phases."
@@ -314,7 +314,7 @@ const lesson1Sets = [
         [
           "X will contain no fat",
           "Y will contain no lactose",
-          "Y may develop a more visible cream layer",
+          "Y may form a cream layer",
           "X will become a colloid but Y will not"
         ],
         "C",
@@ -323,10 +323,10 @@ const lesson1Sets = [
       [
         "Which change is physical rather than a new nutrient being made?",
         [
-          "Turning water molecules into protein",
+          "Turning water molecules into protein through a chemical reaction",
           "Making calcium from fat",
           "Creating lactose from minerals",
-          "Breaking fat globules into smaller globules during homogenization"
+          "Fat globules break into smaller ones"
         ],
         "D",
         "Homogenization changes fat-globule size and dispersion, not the chemical identity of milkfat."
@@ -334,9 +334,9 @@ const lesson1Sets = [
       [
         "A student claims casein micelles “dissolve just like sugar.” What is the key correction?",
         [
-          "Neither can mix with water",
+          "Casein micelles and sugar molecules both dissolve as separate molecules in water",
           "Sugar is always a colloid",
-          "Casein is dispersed as colloidal particles, while sugar molecules dissolve",
+          "Casein forms colloids; sugar dissolves",
           "Casein is a gas"
         ],
         "C",
@@ -348,7 +348,7 @@ const lesson1Sets = [
           "All components have become one molecule",
           "The milk contains no particles",
           "The fat has evaporated",
-          "The dispersed structures are too small to distinguish unaided"
+          "They are too small to see individually"
         ],
         "D",
         "The tiny dispersed structures make milk look uniform without being a single solution."
@@ -359,7 +359,7 @@ const lesson1Sets = [
           "Larger globules dissolve faster",
           "Cream is made of lactose",
           "Small globules are heavier than minerals",
-          "Larger globules separate upward more readily than smaller homogenized globules"
+          "Large globules rise faster"
         ],
         "D",
         "Homogenization makes smaller globules that stay dispersed longer."
@@ -369,8 +369,8 @@ const lesson1Sets = [
         [
           "Lactose tastes mildly sweet",
           "Milk contains water",
-          "Casein micelles remain dispersed rather than rapidly settling",
-          "Cream can be churned"
+          "Casein micelles stay dispersed",
+          "Cream can be churned because all its casein micelles have already dissolved"
         ],
         "C",
         "A colloid contains dispersed particles that do not quickly settle."
@@ -378,8 +378,8 @@ const lesson1Sets = [
       [
         "What is the continuous phase in an oil-in-water food emulsion?",
         [
-          "The water-based phase surrounding oil droplets",
-          "The solid container",
+          "Water surrounding oil droplets",
+          "A solid container surrounding all oil droplets",
           "Any dissolved sugar",
           "The oil droplets only"
         ],
@@ -391,7 +391,7 @@ const lesson1Sets = [
         [
           "It is a type of fatty acid",
           "It is always absent from milk",
-          "It associates more readily with fat than with water",
+          "It associates more with fat",
           "It must be a sugar"
         ],
         "C",
@@ -401,8 +401,8 @@ const lesson1Sets = [
         "A family makes cultured milk by allowing useful microbes to acidify milk. This illustrates…",
         [
           "Cream separation only",
-          "People using microbes to transform a perishable food",
-          "Homogenization by heat",
+          "Microbes acidify and change milk",
+          "Homogenization applies heat to ferment lactose into lactic acid",
           "Mineral evaporation"
         ],
         "B",
@@ -414,7 +414,7 @@ const lesson1Sets = [
           "Lactose has a different chemical identity in each country",
           "Water does not occur in some regions",
           "Milkfat cannot be processed",
-          "Different animals, microbes, climates, and storage practices are used"
+          "Local animals, microbes, climate, and storage differ"
         ],
         "D",
         "Local animals, microbes, temperature, and storage shape dairy foods."
@@ -433,7 +433,7 @@ const lesson1Sets = [
       [
         "What does the word “immiscible” mean in the definition of an emulsion?",
         [
-          "The liquids do not normally mix into one uniform liquid",
+          "The liquids do not normally mix",
           "One liquid is chemically destroyed",
           "The liquids are both gases",
           "The liquids are identical substances"
@@ -509,9 +509,9 @@ const lesson1Sets = [
       [
         "Which model best represents milk’s organization?",
         [
-          "One pure compound with one molecular type",
+          "A pure substance made of one molecule type dissolved in water",
           "A suspension of only large solids",
-          "Water with dissolved lactose/minerals plus dispersed casein micelles and fat globules",
+          "Dissolved solutes plus casein and fat particles",
           "Fat with all other components dissolved in it"
         ],
         "C",
@@ -520,7 +520,7 @@ const lesson1Sets = [
       [
         "A student observes a stable-looking milk sample and concludes, “Nothing is dispersed.” Why is that reasoning flawed?",
         [
-          "Small droplets and colloidal particles can remain dispersed without being visible or settling quickly",
+          "Invisible particles can stay dispersed",
           "Stable appearance proves milk is pure water",
           "Dispersed particles must always be visible",
           "Only solids can disperse"
@@ -534,7 +534,7 @@ const lesson1Sets = [
           "Lactose forms the emulsion; fat is dissolved; casein is a gas",
           "All three words mean exactly the same thing",
           "Only water is present",
-          "Lactose/minerals are dissolved; casein forms colloidal particles; fat droplets form an emulsion"
+          "Sugar dissolves; casein forms colloids; fat forms droplets"
         ],
         "D",
         "Each term describes a different physical arrangement of components."
@@ -555,8 +555,8 @@ const lesson1Sets = [
         [
           "Casein is the main milk sugar",
           "Whey is a mineral",
-          "Milk proteins include casein and whey proteins",
-          "All milk protein is casein"
+          "Milk contains casein and whey",
+          "All milk protein is casein, while whey is made of minerals"
         ],
         "C",
         "Milk proteins include casein and whey proteins."
@@ -564,7 +564,7 @@ const lesson1Sets = [
       [
         "A food scientist wants a fat-rich product from cream. Which action and outcome are correctly linked?",
         [
-          "Churn cream; fat aggregates into butter and liquid buttermilk separates",
+          "Churn cream; fat gathers into butter",
           "Freeze milk; minerals turn into butter",
           "Add water; casein becomes a vitamin",
           "Homogenize cream; all fat becomes dissolved sugar"
@@ -575,7 +575,7 @@ const lesson1Sets = [
       [
         "Which statement best explains why milk is more complex than a simple solution?",
         [
-          "It contains substances in several physical forms: dissolved, colloidal, and emulsified",
+          "It contains dissolved and dispersed components",
           "It contains only one dissolved sugar",
           "It has no continuous phase",
           "Its water is chemically bonded to every fat droplet"
@@ -589,7 +589,7 @@ const lesson1Sets = [
           "It means every sample is exactly 87.0% water",
           "It means 87% of milk is fat",
           "It means milk is pure water",
-          "It is a useful approximate composition; actual values vary"
+          "87% is approximate; actual values vary"
         ],
         "D",
         "The percentage is approximate and composition varies among milks."
@@ -598,7 +598,7 @@ const lesson1Sets = [
         "A student claims that homogenization makes milkfat disappear because cream no longer rises. What is the best response?",
         [
           "Homogenization converts fat to lactose",
-          "Homogenization makes smaller fat globules that remain dispersed; it does not remove the fat",
+          "It reduces globule size without removing fat",
           "All fat is drained away",
           "The student is correct because clear milk has no fat"
         ],
@@ -619,10 +619,10 @@ const lesson1Sets = [
       [
         "Why might milkfat carry aroma compounds?",
         [
-          "Fat is the same thing as aroma",
+          "Fat and aroma are the same substance in milk because both are oily",
           "Milk has no aroma compounds",
           "Only minerals carry odors",
-          "Fat can dissolve or hold some aroma molecules, helping contribute to flavor"
+          "Fat holds some aroma molecules"
         ],
         "D",
         "Fat contributes aroma carrying as well as creamy body and energy."
@@ -632,7 +632,7 @@ const lesson1Sets = [
         [
           "Add phospholipid, then remove all water",
           "Homogenize, dissolve fat, then evaporate all protein",
-          "Acid or enzymes help form curds, then curds may be drained and aged",
+          "Form curds with acid or enzymes; then drain and age",
           "Freeze milk, separate lactose, then churn minerals"
         ],
         "C",
@@ -643,7 +643,7 @@ const lesson1Sets = [
         [
           "They are exact synonyms",
           "An emulsifier is a type of water; an emulsion is a sugar",
-          "An emulsifier is a stabilizing substance; an emulsion is the mixture of droplets",
+          "An emulsifier helps stabilize an emulsion",
           "An emulsion is a molecule and an emulsifier is a container"
         ],
         "C",
@@ -653,9 +653,9 @@ const lesson1Sets = [
         "Which change most directly explains butter formation during churning?",
         [
           "Lactose becomes a protein",
-          "Fat globules aggregate after their membranes are disrupted",
+          "Fat globules merge when membranes break",
           "Minerals dissolve into cream",
-          "Water becomes immiscible with itself"
+          "Water becomes an oil-like phase as cream is agitated"
         ],
         "B",
         "Agitation destabilizes globules and lets fat gather together."
@@ -664,7 +664,7 @@ const lesson1Sets = [
         "Milk from two seasons differs slightly. Which factor could explain the difference?",
         [
           "Water becomes a different element",
-          "Season can affect milk composition",
+          "Season can affect composition",
           "The chemical identity of lactose changes by season",
           "The difference must be a measurement error"
         ],
@@ -676,7 +676,7 @@ const lesson1Sets = [
         [
           "It was used only to make lactose",
           "It eliminated the need for microbes in foods",
-          "It let people turn animal feed such as grasses into a steady food source and preserve/transform milk",
+          "It turned animal feed into useful food",
           "It began only after modern refrigeration"
         ],
         "C",
@@ -688,7 +688,7 @@ const lesson1Sets = [
           "Cream is the water phase",
           "Milk has no continuous phase",
           "Continuous phase means any visible layer",
-          "Cream is the fat-rich portion; in milk’s oil-in-water emulsion, water is continuous"
+          "Water is continuous; cream is fat-rich"
         ],
         "D",
         "In milk, water surrounds the dispersed fat globules; cream is fat-enriched."
@@ -697,8 +697,8 @@ const lesson1Sets = [
         "Which explains why milk can appear homogeneous while being microscopically heterogeneous?",
         [
           "It has no particles",
-          "Its droplets and particles are tiny and distributed throughout the water phase",
-          "Only the container makes it look white",
+          "Tiny particles are spread throughout water",
+          "Only the container makes milk look white; no particles are distributed through it",
           "Every component is a single chemical"
         ],
         "B",
@@ -720,8 +720,8 @@ const lesson1Sets = [
       [
         "Select all that apply: Which statements correctly describe milk and its processing?",
         [
-          "Churning makes cream into a lactose solution",
-          "A uniform appearance does not prove a mixture is a true solution",
+          "Churning turns cream into lactose while keeping its fat globules intact",
+          "A uniform appearance does not prove a true solution",
           "Homogenization reduces fat-globule size",
           "An emulsifier helps stabilize an emulsion",
           "Milk composition can vary with feed and season"
