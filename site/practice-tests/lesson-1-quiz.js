@@ -21,7 +21,6 @@
       input.type = multi ? 'checkbox' : 'radio';
       input.name = name;
       input.value = letters[optionIndex];
-      if (optionIndex === 0) input.required = true;
       label.append(input, document.createTextNode(` ${letters[optionIndex]}. ${option}`));
       card.append(label);
     });
@@ -42,7 +41,6 @@
     legend.innerHTML = `<strong>${index + 1}.</strong> ${prompt}`;
     const area = document.createElement('textarea');
     area.name = `written${index + 1}`;
-    area.required = true;
     area.rows = 4;
     area.placeholder = 'Write your response in complete sentences…';
     const feedback = document.createElement('div');
